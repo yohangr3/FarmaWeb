@@ -1,0 +1,12 @@
+nav {
+    float: left;
+ }
+
+ #titulo{
+    align-items: center;
+ }
+
+ iframe{
+    margin-left: auto;
+	margin-right: auto;
+ }
